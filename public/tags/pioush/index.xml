@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pioush on Pioush Community Blog</title>
+    <link>http://localhost:1313/tags/pioush/</link>
+    <description>Recent content in Pioush on Pioush Community Blog</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pioush/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pioush Meetup #27 Recap</title>
+      <link>http://localhost:1313/posts/pioush-gathering-recap-27/</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pioush-gathering-recap-27/</guid>
+      <description>The first Pioush meetup of 1404 focused on frontend technologies, hands-on Hugo development, and discussions on transportation and IoT.</description>
+    </item>
+  </channel>
+</rss>
