@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+SUMMARY:دورهمی پیوش - از آرزوهایت بگو
+DTSTART:20250416T123000Z
+DTEND:20250416T163000Z
+DESCRIPTION:یه دورهمی صمیمی، بدون ارائه و عجله؛ قراره درباره آرزوهامون حرف بزنیم، بنویسیم و با هم رشد کنیم. همراه جمع پیوش باش!
+LOCATION:مجتمع تجاری عفیف‌آباد، طبقه زیرین، کافه بونتی
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:یادآوری: یک ساعت تا شروع دورهمی پیوش
+END:VALARM
+END:VEVENT
+END:VCALENDAR
